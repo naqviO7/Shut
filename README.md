@@ -1,5 +1,5 @@
 # Shut
-Python script to shutdown/restart a computer
+Its just a simple python class to do some basic tasks!
 
 ## Make it EXE:
 Use Command `pyinstaller filename.py --onefile` to make it an Application.
