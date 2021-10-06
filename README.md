@@ -1,7 +1,7 @@
 # Shut
 Python script to shutdown/restart a computer
 
-## Make It EXE:
+## Make it EXE:
 Use Command `pyinstaller filename.py --onefile` to make it an Application.
 
 ## How to Use:
